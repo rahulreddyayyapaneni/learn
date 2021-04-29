@@ -2,6 +2,11 @@
 swapped = True # it's a little fake - we need it to enter the while loop
 
 
+
+
+
+
+
 while swapped:
     swapped = False # no swaps so far
     for i in range(len(myList) - 1):
